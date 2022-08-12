@@ -9,3 +9,32 @@ img {
 .textbox {
     padding: 3rem;
 }
+
+.inside-wrapper {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    
+}
+
+.outside-wrapper {
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+}
+
+.canvas-image {
+    width: 100%;
+    height: 100%;
+    position: absolutes;
+    top: 0px;
+    left: 0px;
+}
+
+.canvas {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
